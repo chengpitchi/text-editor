@@ -2,7 +2,7 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack --mode production",
+    "build": "webpack -p --progress",
     "start": "webpack --watch", 
     "heroku-postbuild": "webpack -p"
   },
