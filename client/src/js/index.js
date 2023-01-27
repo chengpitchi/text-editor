@@ -19,6 +19,8 @@ const loadSpinner = () => {
 
 const editor = new Editor();
 
+console.log(typeof editor); 
+
 if (typeof editor === 'undefined') {
   loadSpinner();
 }
