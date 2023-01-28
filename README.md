@@ -84,6 +84,8 @@ THEN I should have proper build scripts for a webpack application
     * webpack-dev-server
     * webpack-pwa-manifest
     * workbox-webpack-plugin
+    * code-mirror-themes
+    * idb
 
 2. After installation, you can run "npm start" to run the build and start the application. 
 
